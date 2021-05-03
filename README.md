@@ -1,5 +1,6 @@
 # Tunnel_Man
-https://user-images.githubusercontent.com/32945767/44846667-dd27ff00-ac05-11e8-9c2c-5e12cbafbe40.png
+<img width="570" alt="tman" src="https://user-images.githubusercontent.com/66845657/116927114-17949600-ac10-11eb-85cc-81002a9e8695.png">
+
 Fundamentally, this is a video game is composed of a bunch of objects (i.e., class variables); in 
 Tunnelman, those objects include the Tunnelman, Regular Protesters, Hardcore
 Protesters, Goodies (e.g., Sonar Kits, Gold Nuggets, Water, Barrels of oil) that can be
